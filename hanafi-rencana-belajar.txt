@@ -1,6 +1,8 @@
 Rencana Belajar 2024-2025
   - Taillwind
   - React Js
-  - angular Js
+  - OOP Javascript
   - Node Js
+  - PHP
+  - Laravel
   - UI/UX
