@@ -1,5 +1,9 @@
 Hanafi Resolusi
-- Konsisten belajar web development 1 minggu 3x
+- Konsisten belajar web development 1 minggu 4x
+  - Hari selasa jam 13.00 / 19.30
+  - Hari rabu jam 13.00 / 19.30
+  - Hari Jum'at jam 13.00 / 19.30
+  - Hari sabtu jam 13.00 / 19.30
 - Belajar Taillwind
 - Belajar React JS
 - Akhir tahun sudah bisa membuat web desain secara utuh
