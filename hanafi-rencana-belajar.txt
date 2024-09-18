@@ -1,4 +1,4 @@
 Rencana Belajar 2024-2025
   - Taillwind
-  - React Js
+  - React Js / Vue Js
   - Node Js
